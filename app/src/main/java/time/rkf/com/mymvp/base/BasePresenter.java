@@ -1,4 +1,4 @@
-package time.rkf.com.mymvp;
+package time.rkf.com.mymvp.base;
 
 import java.lang.ref.WeakReference;
 

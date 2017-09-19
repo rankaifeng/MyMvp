@@ -1,4 +1,6 @@
-package time.rkf.com.mymvp;
+package time.rkf.com.mymvp.model.imp;
+
+import time.rkf.com.mymvp.model.ILoginModel;
 
 /**
  * Created by rankaifeng on 2017/9/19.

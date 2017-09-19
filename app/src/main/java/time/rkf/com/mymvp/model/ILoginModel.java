@@ -1,4 +1,4 @@
-package time.rkf.com.mymvp;
+package time.rkf.com.mymvp.model;
 
 /**
  * Created by rankaifeng on 2017/9/19.
